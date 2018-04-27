@@ -1,0 +1,2 @@
+<!--pages/wxml/index.wxml-->
+<text>当前时间：{{ time }}</text>
