@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>SCRM</title>
     <style>
+      /* -------- 菱形图片 ------------- */
       .picture {
         width: 400px;
         height: 400px;
@@ -18,10 +19,56 @@
         height: 400px;
         transform: rotate(-45deg) scale(1.42);
       }
+      /* -------- 遮罩层（不起作用） ------------- */
+      body.dimmed::before {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 1;
+        background: rgba(0, 0, 0, .8);
+      }
+      /* -------- 遮罩层（不起作用） ------------- */
+      .image-slider {
+        position: relative;
+        display: inline-block;
+      }
+      .image-slider > div {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 50%;/* 初始宽度 */
+        overflow: hidden;/* 让容器可以裁切图片 */
+        resize: horizontal;/* 可拖动 */
+      }
+      .image-slider > div::before {
+        position: absolute;
+        content: '';
+        bottom: 0;
+        right: 0;
+        width: 12px;
+        height: 12px;
+        background: white;
+        cursor: ew-resize;
+        padding: 5px;
+        background: linear-gradient(-45deg, white 50%, transparent 0);
+        background-clip: content-box;
+      }
+      .image-slider img {
+        display: block;
+        user-select: none;
+      }
     </style>
   </head>
-  <body>
+  <body class="dimmed">
     <!-- 菱形图片 -->
     <div class="picture"><img src="test.jpg" alt="test.jpg"></div>
+    <!-- 交互式图对比控件 -->
+    <div class="image-slider">
+      <div><img src="test.jpg" alt="test.jpg"></div>
+      <img src="test.jpg" alt="test.jpg">
+    </div>
   </body>
 </html>
