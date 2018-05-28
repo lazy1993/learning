@@ -374,6 +374,14 @@ index.js/index.json/index.node-----没有成功定位任何文件---->
 
 * WebSocket 没有在 HTTP 的基础上模拟服务器的推送，而是在 TCP 上定义独立的协议。但是 WebSocket 的握手部分是由 HTTP 完成的。  
 
+### 7.5 网络服务与安全  
+
+* SSL：Secure Sockets Layer，安全套接层。  
+
+* TLS：Transport Layer Security，安全传输层协议。  
+
+* Node 在网络安全上提供了 3 个模块，分别是 **cypto、tls、https**。  
+
 
 
 
