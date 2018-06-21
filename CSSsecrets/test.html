@@ -60,6 +60,158 @@
         display: block;
         user-select: none;
       }
+      /* -------- 根据兄弟元素的数量来设置样式 ------------- */
+      li:first-child:nth-last-child(10),
+      li:first-child:nth-last-child(10) ~ li {
+        color: red;
+      }
+      /* -------- 根据兄弟元素的数量范围来匹配元素 ------------- */
+      /* 至少包含4项 */
+      li:first-child:nth-last-child(n + 4),
+      li:first-child:nth-last-child(n + 4) ~ li {
+        color: black;
+      }
+      /* 至多包含4项 */
+      li:first-child:nth-last-child(-n + 4),
+      li:first-child:nth-last-child(-n + 4) ~ li {
+        color: blue;
+      }
+      /* 包含2~6项 */
+      li:first-child:nth-last-child(n+2):nth-last-child(-n + 6),
+      li:first-child:nth-last-child(n+2):nth-last-child(-n + 6) ~ li {
+        color: blue;
+      }
+      /* 闪烁动画 */
+      @keyframes blink-smooth1 { to { color: transparent }}
+      @keyframes blink-smooth2 { 50% { color: transparent }}
+      .highlight {
+        animation: 1s blink-smooth1 3;
+      }
+      .highlight {
+        animation: 1s blink-smooth2 3;
+      }
+      .highlight {
+        animation: .5s blink-smooth1 6 alternate;
+      }
+      .highlight {
+        animation: 1s blink-smooth1 3 steps(2);
+      }
+      .highlight {
+        animation: 1s blink-smooth2 3 steps(1);
+      }
+      /* 文字打印机 */
+      @keyframes typing {
+        from { width: 0 }
+      }
+      @keyframes caret {
+        50% { border-color: transparent; }
+      }
+      /* 需要等宽字体才能实现打字机效果 */
+      .typing {
+        /* width: 8.4em; */
+        width: 15ch;
+        animation: typing 6s steps(15), caret 1s steps(1) infinite;
+        white-space: nowrap;
+        border-right: .05em solid;
+        overflow: hidden;
+      }
+      /* 平滑的动画 */
+      @keyframes city-pic {
+        to { background-position: 100% 0; }
+      }
+      /* 这样动画会在鼠标移出时生硬地回到初始状态 */
+      .city-pic {
+        width: 419px;
+        height: 419px;
+        background: url("./city.jpg");
+        background-size: auto 100%;
+      }
+      .city-pic:hover, .city-pic:active {
+        animation: 6s city-pic linear infinite alternate;
+      }
+      .city-pic {
+        width: 419px;
+        height: 419px;
+        background: url("./city.jpg");
+        background-size: auto 100%;
+        animation: 6s city-pic linear infinite alternate;
+        animation-play-state: paused;
+      }
+      .city-pic:hover, .city-pic:active {
+        animation-play-state: running;
+      }
+      /* 环形动画 */
+      /* 实现1 */
+      .circle-path {
+        width: 300px;
+        height: 300px;
+        background: orange;
+        border-radius: 50%;
+        text-align: center;
+        padding: 10px;
+      }
+      .avatar {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+      }
+      @keyframes spin {
+        to { transform: rotate(1turn); }
+      }
+      .avatar {
+        animation: 3s spin infinite linear;
+        transform-origin: 50% 150px;
+      }
+      /* 实现2 */
+      .circle-path {
+        width: 300px;
+        height: 300px;
+        background: orange;
+        border-radius: 50%;
+        text-align: center;
+        padding: 10px;
+      }
+      .avatar {
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        overflow: hidden;
+      }
+      @keyframes spin {
+        to { transform: rotate(1turn); }
+      }
+      /* @keyframes spin-reverse {
+        from { transform: rotate(1turn); }
+      } */
+      .avatar {
+        animation: 3s spin infinite linear;
+        transform-origin: 50% 150px;
+      }
+      .avatar > img {
+        width: 100%;
+        height: 100%;
+        /* animation: 3s spin-reverse infinite linear; */
+        animation: inherit;
+        /* animation-name: spin-reverse; */
+        animation-direction: reverse;
+      }
+      /* @keyframes spin {
+        from {
+          transform: rotate(0turn)
+                     translateY(-150px) translateY(50%)
+                     rotate(1turn);
+        }
+        to {
+          transform: rotate(1turn)
+                     translateY(-150px) translateY(50%)
+                     rotate(0turn);
+        }
+      } */
+      /* 需要将原始头像位置放在正中心 */
+      /* .avatar{
+        animation: spin 3s infinite linear;
+      } */
     </style>
   </head>
   <body class="dimmed">
@@ -69,6 +221,38 @@
     <div class="image-slider">
       <div><img src="test.jpg" alt="test.jpg"></div>
       <img src="test.jpg" alt="test.jpg">
+    </div>
+    <!-- 根据兄弟元素的数量来选择元素 -->
+    <div class="brother-nums">
+      <ul>
+        <li>001</li>
+        <li>002</li>
+        <li>003</li>
+        <li>004</li>
+        <li>005</li>
+        <li>006</li>
+        <li>007</li>
+        <li>008</li>
+        <li>009</li>
+        <li>010</li>
+      </ul>
+    </div>
+    <!-- 闪烁动画 -->
+    <p class="highlight">闪烁动画</p>
+    <!-- 文字打印机 -->
+    <h1 class="typing">CSS is awesome!</h1>
+    <!-- 状态平滑的动画 -->
+    <div class="city-pic"></div>
+    <!-- 环形动画 -->
+    <!-- 实现1 -->
+    <div class="circle-path">
+      <img src="./city.jpg" alt="城市" class="avatar">
+    </div>
+    <!-- 实现2 -->
+    <div class="circle-path">
+      <div class="avatar">
+        <img src="./test.jpg" alt="城市">
+      </div>
     </div>
   </body>
 </html>
