@@ -18,4 +18,8 @@
 
 * hbase 和 redis 和 mongodb 和 couchdb 虽然都属于 nosql 的大范畴。但它们关注的领域是不一样的。hbase 是存海量数据的，redis 用来做缓存，而 mongodb 和 couchdb 则试图取代一些使用 mysql 的场景。  
 
-*
+## lesson16 cookie 和 session
+
+* 在 redis 中存储 session 需要先安装redis！！！  
+
+* 
