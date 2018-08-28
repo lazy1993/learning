@@ -35,7 +35,7 @@
 * Uninitialized variables have an initial value of null. Even variables with numeric types are initially null, because numbers—like everything else in Dart—are objects.
 没有初始化的变量都会被初始化为一个值： `null`，即使是数字类型的变量也一样。  
 
-## 内建类型
+### 内建类型
 
 * `Dart` 语言对以下类型有特殊的支持:
   * `numbers`
@@ -46,7 +46,7 @@
   * `runes` (for expressing Unicode characters in a string)
   * `symbols`
 
-## Numbers
+### Numbers
 
 * `int`  
     Integer values no larger than 64 bits, depending on the platform. On the Dart VM, values can be from -2<sup>63</sup> to 2<sup>63</sup> - 1. Dart that’s compiled to JavaScript uses JavaScript numbers, allowing values from -2<sup>53</sup> to <sup>53</sup> - 1.
@@ -56,7 +56,7 @@
     64-bit (double-precision) floating-point numbers, as specified by the IEEE 754 standard.
     64位(双精度)浮点数，遵循 `IEEE 754` 标准。  
 
-## Strings
+### Strings
 
 * 可以使用 `${expression}` 直接将变量值放在字符串中。  
 
@@ -64,18 +64,28 @@
 
 * 加上 `r` 前缀创建的字符串将会表示最“原始”的含义。（所有字符都将表示当前看到的原义）  
 
-## Booleans
+### Booleans
 
 * `Dart` 使用 `bool` 类型来代表布尔值。  
 
 * 由于 `Dart` 的类型安全机制，不能需要是用布尔值的地方使用非布尔值代替，必须使用真正的布尔值。  
 
-## Lists
+### Lists
 
 * 在 `Dart` 中，数组是 `List objects`，所以有些开发者直接将数组叫做 *`lists`*。  
 
-## Maps
+### Maps
 
-* 
+* 通常 `map` 是一个表示键值对映射关系的对象。  
 
+### Runes
 
+* `runes` 是字符串的 `UTF-32` 编码。  
+
+### Symbols
+
+* `Symbol` 字面量是编译时常量。  
+
+## 函数
+
+* `Dart` 是一种真正的面向对象语言，所以即使是函数也是对象，并且有一个类型， `Function` 。  
