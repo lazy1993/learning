@@ -5,11 +5,15 @@
 ## 参数传递的几个方式
 
 
-
 ## npm scripts
 * 参考资料 [npm scripts 使用指南-阮一峰-个人博客](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)  
 ## webpack 配置文件导出函数
 * 参考资料 [Webpack 调教之参数的投喂-wayou-github](https://github.com/wayou/wayou.github.io/issues/14)  
+## webpack-dev-server 参数传递
+1. 在命令行直接传入 `webpack-dev-server` 支持的参数  
+`--port=9527`  
+
+
 
 
 ## process.env
