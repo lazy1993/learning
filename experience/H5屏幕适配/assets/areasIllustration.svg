@@ -1,0 +1,206 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1060" height="2050" xml:space="preserve" id="areasIllustration">
+    <path id="bezier5" stroke="rgb(221, 221, 221)" stroke-miterlimit="10" fill="none" d="M 0.5,668.5 L 1059.5,668.5"></path>
+    <path id="bezier2" stroke="rgb(221, 221, 221)" stroke-miterlimit="10" fill="none" d="M 0.5,1575.5 L 1059.5,1575.5"></path>
+    <path id="bezier" stroke="rgb(221, 221, 221)" stroke-miterlimit="10" fill="none" d="M 0.5,1154.5 L 1059.5,1154.5"></path>
+    <rect id="rectangle49" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="599" y="1620" width="210" height="430"></rect>
+    <rect id="rectangle47" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="849" y="1620" width="210" height="430"></rect>
+    <g id="iPhone6">
+        <rect id="rectangle79" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="616" y="1624" width="177" height="366" rx="21.67"></rect>
+        <rect id="rectangle80" stroke="none" fill="rgb(141, 148, 159)" x="613" y="1668" width="2" height="18"></rect>
+        <rect id="rectangle81" stroke="none" fill="rgb(141, 148, 159)" x="613" y="1702" width="2" height="27"></rect>
+        <rect id="rectangle82" stroke="none" fill="rgb(141, 148, 159)" x="613" y="1734" width="2" height="27"></rect>
+        <rect id="rectangle83" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="689" y="1645" width="30" height="4" rx="2"></rect>
+        <rect id="rectangle84" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="673" y="1644" width="6" height="6" rx="3"></rect>
+        <rect id="rectangle85" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="702" y="1633" width="4" height="4" rx="2"></rect>
+        <circle id="oval5" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="704" cy="1967" r="13"></circle>
+    </g>
+    <g id="iPhone6Plus">
+        <rect id="rectangle71" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="852" y="1622" width="207" height="423" rx="21.67"></rect>
+        <rect id="rectangle72" stroke="none" fill="rgb(141, 148, 159)" x="849" y="1670" width="2" height="18"></rect>
+        <rect id="rectangle73" stroke="none" fill="rgb(141, 148, 159)" x="849" y="1703" width="2" height="27"></rect>
+        <rect id="rectangle74" stroke="none" fill="rgb(141, 148, 159)" x="849" y="1737" width="2" height="27"></rect>
+        <rect id="rectangle75" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="940" y="1646" width="30" height="4" rx="2"></rect>
+        <rect id="rectangle76" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="923" y="1645" width="6" height="6" rx="3"></rect>
+        <rect id="rectangle77" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="953" y="1633" width="4" height="4" rx="2"></rect>
+        <circle id="oval4" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="955" cy="2021" r="13"></circle>
+    </g>
+    <rect id="rectangle48" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="348" y="1620" width="210" height="430"></rect>
+    <g id="originalIPhone">
+        <rect id="rectangle87" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="377" y="1621" width="156" height="301" rx="23.33"></rect>
+        <rect id="rectangle88" stroke="none" fill="rgb(141, 148, 159)" x="374" y="1649" width="2" height="14"></rect>
+        <rect id="rectangle89" stroke="none" fill="rgb(141, 148, 159)" x="374" y="1674" width="2" height="19"></rect>
+        <rect id="rectangle90" stroke="none" fill="rgb(141, 148, 159)" x="374" y="1707" width="2" height="20"></rect>
+        <rect id="rectangle91" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="440" y="1647" width="29" height="4" rx="2"></rect>
+        <circle id="oval6" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="454.5" cy="1895.5" r="13.5"></circle>
+        <rect id="rectangle93" stroke="none" fill="rgb(141, 148, 159)" x="481" y="1618" width="27" height="3"></rect>
+    </g>
+    <rect id="rectangle28" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="350" y="229" width="210" height="399"></rect>
+    <path id="rectangle62" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 456,471 L 456,708"></path>
+    <path id="bezier43" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 462.5,702.5 L 456,709 449.5,702.5"></path>
+    <rect id="rectangle26" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="850" y="228" width="210" height="400"></rect>
+    <rect id="rectangle29" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="600" y="229" width="210" height="399"></rect>
+    <rect id="rectangle30" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="375" y="230" width="160" height="240"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="419.48" y="230" text-anchor="middle"><tspan x="455" y="355">320 × 480</tspan></text>
+    <rect id="rectangle31" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="611" y="230" width="188" height="334"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="669.48" y="230" text-anchor="middle"><tspan x="705" y="402">375 × 667</tspan></text>
+    <rect id="rectangle32" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="852" y="229" width="207" height="368"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="919.98" y="229" text-anchor="middle"><tspan x="955.5" y="418">414 × 736</tspan></text>
+    <rect id="rectangle33" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="0" y="229" width="310" height="399"></rect>
+    <rect id="rectangle27" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="849" y="709" width="210" height="400"></rect>
+    <rect id="rectangle34" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="349" y="710" width="210" height="399"></rect>
+    <rect id="rectangle35" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="599" y="710" width="210" height="399"></rect>
+    <rect id="rectangle36" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="-1" y="710" width="310" height="399"></rect>
+    <rect id="rectangle37" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="429" y="710" width="53" height="80"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="9" x="434.19" y="710" text-anchor="middle"><tspan x="455.5" y="753">320 × 480</tspan></text>
+    <rect id="rectangle38" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="642" y="710" width="125" height="222"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="664.52" y="710" text-anchor="middle"><tspan x="704.5" y="826">750 × 1334</tspan></text>
+    <rect id="rectangle39" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="851" y="709" width="206" height="368"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="909.56" y="709" text-anchor="middle"><tspan x="954" y="898">1242 × 2208</tspan></text>
+    <rect id="rectangle40" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="848" y="1199" width="210" height="330"></rect>
+    <rect id="rectangle41" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="348" y="1199" width="210" height="330"></rect>
+    <rect id="rectangle42" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="598" y="1199" width="210" height="330"></rect>
+    <rect id="rectangle43" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="-2" y="1200" width="310" height="329"></rect>
+    <rect id="rectangle46" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="864" y="1199" width="180" height="320"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="909.56" y="1199" text-anchor="middle"><tspan x="954" y="1364">1080 × 1920</tspan></text>
+    <rect id="rectangle50" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="-1" y="1620" width="310" height="430"></rect>
+    <rect id="rectangle51" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="386" y="1668" width="136" height="202"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="428.79" y="1668" text-anchor="middle"><tspan x="454" y="1777">3.5″</tspan></text>
+    <rect id="rectangle52" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="627" y="1668" width="154" height="278"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="678.79" y="1668" text-anchor="middle"><tspan x="704" y="1815">4.7″</tspan></text>
+    <rect id="rectangle53" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="863" y="1668" width="184" height="326"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="929.79" y="1668" text-anchor="middle"><tspan x="955" y="1839">5.5″</tspan></text>
+    <rect id="rectangle54" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="0" y="1240" width="308" height="289"></rect>
+    <text fill="rgb(141, 148, 159)" font-family="AvenirNext-Regular, 'Avenir Next', sans-serif" font-size="20" x="26.36" y="1240" text-anchor="end"><tspan x="293" y="1260">iPhone 6 Plus has screen with </tspan><tspan x="293" y="1287">lower pixel resolution than the </tspan><tspan x="293" y="1314">image rendered in previous </tspan><tspan x="293" y="1341">step.
+</tspan><tspan x="293" y="1375">
+</tspan><tspan x="293" y="1395">Before the image can be </tspan><tspan x="293" y="1422">displayed on the screen, it </tspan><tspan x="293" y="1449">must be downsampled </tspan><tspan x="293" y="1476">(resized) to lower pixel </tspan><tspan x="293" y="1503">resolution.</tspan></text>
+    <rect id="rectangle55" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="-2" y="1200" width="310" height="40"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="129.5" y="1204" text-anchor="end"><tspan x="293" y="1229">Physical Pixels</tspan></text>
+    <rect id="rectangle56" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="0" y="269" width="310" height="359"></rect>
+    <text fill="rgb(141, 148, 159)" font-family="AvenirNext-Regular, 'Avenir Next', sans-serif" font-size="20" x="23.52" y="269" text-anchor="end"><tspan x="295" y="289">At the beginning, coordinates </tspan><tspan x="295" y="316">of all drawings are specified in
+</tspan><tspan x="295" y="350">
+</tspan><tspan x="295" y="377">
+</tspan><tspan x="295" y="397">Points are abstract units, they </tspan><tspan x="295" y="424">only make sense in this </tspan><tspan x="295" y="451">mathematical coordinate </tspan><tspan x="295" y="478">space.
+</tspan><tspan x="295" y="512">
+</tspan><tspan x="295" y="532">In the original iPhone, points </tspan><tspan x="295" y="559">corresponded perfectly to </tspan><tspan x="295" y="586">actual pixels on screen, but </tspan><tspan x="295" y="613">this is no longer true.
+</tspan><tspan x="295" y="289"> </tspan></text>
+    <rect id="rectangle57" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="0" y="229" width="310" height="40"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="226.15" y="233" text-anchor="end"><tspan x="295" y="258">Points</tspan></text>
+    <rect id="rectangle58" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="0" y="750" width="308" height="359"></rect>
+    <text fill="rgb(141, 148, 159)" font-family="AvenirNext-Regular, 'Avenir Next', sans-serif" font-size="20" x="62.38" y="750" text-anchor="end"><tspan x="293" y="770">Point-based drawings are </tspan><tspan x="293" y="797">rendered into pixels. This </tspan><tspan x="293" y="824">process is known as </tspan><tspan x="293" y="851">rasterization.
+</tspan><tspan x="293" y="885">
+</tspan><tspan x="293" y="905">Point coordinates are </tspan><tspan x="293" y="932">multiplied by scale factor to </tspan><tspan x="293" y="959">get pixel coordinates. Higher </tspan><tspan x="293" y="986">scale factors result in higher </tspan><tspan x="293" y="1013">level of detail.
+</tspan><tspan x="293" y="1047">
+</tspan><tspan x="293" y="1067">Typical scale factors are
+</tspan><tspan x="293" y="1094">1×, 2× and 3×.</tspan></text>
+    <rect id="rectangle59" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="-2" y="710" width="310" height="40"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="108.62" y="714" text-anchor="end"><tspan x="293" y="739">Rendered Pixels</tspan></text>
+    <rect id="rectangle60" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="0" y="1660" width="309" height="390"></rect>
+    <text fill="rgb(141, 148, 159)" font-family="AvenirNext-Regular, 'Avenir Next', sans-serif" font-size="20" x="50" y="1660" text-anchor="end"><tspan x="294" y="1680">The last step is to show the </tspan><tspan x="294" y="1707">computed pixels on the </tspan><tspan x="294" y="1734">physical screen.
+</tspan><tspan x="294" y="1768">
+</tspan><tspan x="294" y="1788">Every screen has pixels-per-</tspan><tspan x="294" y="1815">inch (PPI) characteristic. This </tspan><tspan x="294" y="1842">number tells you how many </tspan><tspan x="294" y="1869">pixels fit into one inch and </tspan><tspan x="294" y="1896">thus how large the pixels </tspan><tspan x="294" y="1923">appear in the real world.</tspan></text>
+    <rect id="rectangle61" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="-2" y="1620" width="310" height="40"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="115.6" y="1624" text-anchor="end"><tspan x="293" y="1649">Physical Device</tspan></text>
+    <path id="rectangle63" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 705,565 L 705,708"></path>
+    <path id="bezier3" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 711.5,702.5 L 705,709 698.5,702.5"></path>
+    <path id="rectangle64" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 955,598 L 955,707"></path>
+    <path id="bezier4" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 961.5,701.5 L 955,708 948.5,701.5"></path>
+    <path id="rectangle65" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 455,790 L 455,1618"></path>
+    <path id="rectangle66" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 705,932 L 705,1428"></path>
+    <path id="rectangle67" stroke="rgb(255, 0, 0)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 954,1077 L 954,1198"></path>
+    <path id="bezier7" stroke="rgb(255, 0, 0)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 960.5,1192.5 L 954,1199 947.5,1192.5"></path>
+    <path id="bezier8" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 461.5,1612.5 L 455,1619 448.5,1612.5"></path>
+    <path id="rectangle69" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 705,1422 L 705,1621"></path>
+    <path id="bezier9" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 711.5,1615.5 L 705,1622 698.5,1615.5"></path>
+    <path id="rectangle70" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 954,1520 C 954,1520 954,1594.25 954,1619"></path>
+    <path id="bezier10" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 960.5,1613.5 L 954,1620 947.5,1613.5"></path>
+    <path id="bezier11" stroke="rgb(255, 0, 0)" stroke-miterlimit="10" stroke-dasharray="4,4" stroke-dashoffset="0" fill="none" d="M 851,1077 C 851,1141.19 864,1148.07 864,1198.5"></path>
+    <path id="bezier12" stroke="rgb(255, 0, 0)" stroke-miterlimit="10" stroke-dasharray="4,4" stroke-dashoffset="0" fill="none" d="M 1057,1077 C 1057,1141.89 1044,1147.52 1044,1198.5"></path>
+    <circle id="oval62" stroke="none" fill="rgb(255, 0, 0)" cx="1044" cy="1199" r="3"></circle>
+    <circle id="oval" stroke="none" fill="rgb(255, 0, 0)" cx="1057" cy="1077" r="3"></circle>
+    <circle id="oval2" stroke="none" fill="rgb(255, 0, 0)" cx="851" cy="1077" r="3"></circle>
+    <circle id="oval3" stroke="none" fill="rgb(255, 0, 0)" cx="864" cy="1199" r="3"></circle>
+    <rect id="text7" stroke="rgb(65, 153, 231)" stroke-width="2" fill="rgb(255, 255, 255)" x="418" y="659" width="77" height="19" rx="7"></rect>
+    <text fill="rgb(65, 153, 231)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="11" x="424.99" y="659" text-anchor="middle"><tspan x="456.5" y="672">render at 1×</tspan></text>
+    <rect id="text4" stroke="rgb(255, 0, 0)" stroke-width="2" fill="rgb(255, 255, 255)" x="889" y="1145" width="130" height="19" rx="7"></rect>
+    <text fill="rgb(255, 0, 0)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="11" x="899.68" y="1145" text-anchor="middle"><tspan x="954" y="1158">downsampling / 1.15</tspan></text>
+    <rect id="text3" stroke="rgb(65, 153, 231)" stroke-width="2" fill="rgb(255, 255, 255)" x="406" y="1566" width="98" height="19" rx="7"></rect>
+    <text fill="rgb(65, 153, 231)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="11" x="415.48" y="1566" text-anchor="middle"><tspan x="455" y="1579">show on device</tspan></text>
+    <rect id="text6" stroke="rgb(65, 153, 231)" stroke-width="2" fill="rgb(255, 255, 255)" x="655" y="1566" width="98" height="19" rx="7"></rect>
+    <text fill="rgb(65, 153, 231)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="11" x="664.48" y="1566" text-anchor="middle"><tspan x="704" y="1579">show on device</tspan></text>
+    <rect id="text" stroke="rgb(65, 153, 231)" stroke-width="2" fill="rgb(255, 255, 255)" x="906" y="1566" width="98" height="19" rx="7"></rect>
+    <text fill="rgb(65, 153, 231)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="11" x="915.48" y="1566" text-anchor="middle"><tspan x="955" y="1579">show on device</tspan></text>
+
+    <text fill="rgb(0, 0, 0)" fill-opacity="0.41" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="9" x="439.65" y="757" text-anchor="middle"><tspan x="454.5" y="770">(pixels)</tspan></text>
+
+    <text fill="rgb(0, 0, 0)" fill-opacity="0.41" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="678.74" y="834" text-anchor="middle"><tspan x="703.5" y="849">(pixels)</tspan></text>
+
+    <text fill="rgb(0, 0, 0)" fill-opacity="0.41" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="930.74" y="908" text-anchor="middle"><tspan x="955.5" y="923">(pixels)</tspan></text>
+
+    <text fill="rgb(0, 0, 0)" fill-opacity="0.41" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="929.34" y="429" text-anchor="middle"><tspan x="955.5" y="444">(points)</tspan></text>
+
+    <text fill="rgb(0, 0, 0)" fill-opacity="0.41" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="906.58" y="1376" text-anchor="middle"><tspan x="956" y="1391">(device pixels)</tspan></text>
+
+    <text fill="rgb(0, 0, 0)" fill-opacity="0.41" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="679.34" y="413" text-anchor="middle"><tspan x="705.5" y="428">(points)</tspan></text>
+
+    <text fill="rgb(0, 0, 0)" fill-opacity="0.41" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="15" x="428.34" y="364" text-anchor="middle"><tspan x="454.5" y="379">(points)</tspan></text>
+    <path id="bezier13" stroke="rgb(141, 148, 159)" stroke-width="2" stroke-miterlimit="10" fill="rgb(141, 148, 159)" fill-opacity="0.1" d="M 627,1946 L 688.51,1835.36 M 720.56,1777.71 L 781,1669"></path>
+    <path id="bezier14" stroke="rgb(141, 148, 159)" stroke-width="2" stroke-miterlimit="10" fill="rgb(141, 148, 159)" fill-opacity="0.1" d="M 863,1994 L 939.52,1858.42 M 972.54,1799.92 L 1047,1668"></path>
+    <path id="bezier15" stroke="rgb(141, 148, 159)" stroke-width="2" stroke-miterlimit="10" fill="rgb(141, 148, 159)" fill-opacity="0.1" d="M 386,1870 L 435.65,1796.26 M 473.3,1740.33 L 522,1668"></path>
+    <rect id="rectangle92" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="350" y="0" width="210" height="190"></rect>
+    <rect id="rectangle101" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="600" y="0" width="210" height="190"></rect>
+    <rect id="rectangle102" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="850" y="0" width="210" height="190"></rect>
+    <rect id="rectangle103" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="349" y="150" width="211" height="40"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="364.52" y="154" text-anchor="middle"><tspan x="454.5" y="179">Original iPhone</tspan></text>
+    <rect id="rectangle104" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="600" y="150" width="211" height="40"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="654.9" y="154" text-anchor="middle"><tspan x="705.5" y="179">iPhone 6</tspan></text>
+    <rect id="rectangle105" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="850" y="150" width="211" height="40"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="878.26" y="154" text-anchor="middle"><tspan x="955.5" y="179">iPhone 6 Plus</tspan></text>
+    <g id="iPhone">
+        <rect id="rectangle106" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="670" y="26" width="59" height="123" rx="9"></rect>
+        <rect id="rectangle107" stroke="none" fill="rgb(141, 148, 159)" x="668" y="41" width="1" height="6"></rect>
+        <rect id="rectangle108" stroke="none" fill="rgb(141, 148, 159)" x="668" y="52" width="1" height="9"></rect>
+        <rect id="rectangle109" stroke="none" fill="rgb(141, 148, 159)" x="668" y="63" width="1" height="9"></rect>
+        <rect id="rectangle110" stroke="none" fill="rgb(141, 148, 159)" x="694" y="33" width="11" height="2" rx="1"></rect>
+        <rect id="rectangle111" stroke="none" fill="rgb(141, 148, 159)" x="689" y="33" width="2" height="2" rx="1"></rect>
+        <rect id="rectangle112" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="699" y="30" width="1" height="1" rx="0.5"></rect>
+        <circle id="oval7" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="699.5" cy="141.5" r="4.5"></circle>
+    </g>
+    <g id="iPhone6Plus2">
+        <rect id="rectangle113" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="921" y="7" width="69" height="142" rx="9"></rect>
+        <rect id="rectangle114" stroke="none" fill="rgb(141, 148, 159)" x="919" y="23" width="1" height="6"></rect>
+        <rect id="rectangle115" stroke="none" fill="rgb(141, 148, 159)" x="919" y="34" width="1" height="9"></rect>
+        <rect id="rectangle116" stroke="none" fill="rgb(141, 148, 159)" x="919" y="46" width="1" height="9"></rect>
+        <rect id="rectangle117" stroke="none" fill="rgb(141, 148, 159)" x="950" y="15" width="11" height="2" rx="1"></rect>
+        <rect id="rectangle118" stroke="none" fill="rgb(141, 148, 159)" x="945" y="15" width="2" height="2" rx="1"></rect>
+        <rect id="rectangle119" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="955" y="11" width="1" height="1" rx="0.5"></rect>
+        <ellipse id="oval8" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="955.5" cy="141" rx="4.5" ry="4"></ellipse>
+    </g>
+    <g id="originalIPhone2">
+        <rect id="rectangle120" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="430" y="48" width="52" height="101" rx="9"></rect>
+        <rect id="rectangle121" stroke="none" fill="rgb(141, 148, 159)" x="428" y="57" width="1" height="5"></rect>
+        <rect id="rectangle122" stroke="none" fill="rgb(141, 148, 159)" x="428" y="66" width="1" height="6"></rect>
+        <rect id="rectangle123" stroke="none" fill="rgb(141, 148, 159)" x="428" y="77" width="1" height="7"></rect>
+        <rect id="rectangle124" stroke="none" fill="rgb(141, 148, 159)" x="451" y="56" width="10" height="2" rx="1"></rect>
+        <circle id="oval9" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="455.5" cy="140.5" r="4.5"></circle>
+        <rect id="rectangle125" stroke="none" fill="rgb(141, 148, 159)" x="465" y="46" width="9" height="1"></rect>
+    </g>
+    <rect id="rectangle126" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="434" y="64" width="44" height="67"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="12" x="443.9" y="64" text-anchor="middle"><tspan x="456" y="101">3.5″</tspan></text>
+    <rect id="rectangle127" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="674" y="41" width="51" height="93"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="12" x="687.4" y="41" text-anchor="middle"><tspan x="699.5" y="91">4.7″</tspan></text>
+    <rect id="rectangle128" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="925" y="23" width="61" height="109"></rect>
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="12" x="943.4" y="23" text-anchor="middle"><tspan x="955.5" y="81">5.5″</tspan></text>
+
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="13" x="432.78" y="1844" text-anchor="middle"><tspan x="455.5" y="1858">163 PPI</tspan></text>
+
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="13" x="682.78" y="1922" text-anchor="middle"><tspan x="705.5" y="1936">326 PPI</tspan></text>
+
+    <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="13" x="931.78" y="1970" text-anchor="middle"><tspan x="954.5" y="1984">401 PPI</tspan></text>
+    <rect id="rectangle" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="0" y="323" width="310" height="40"></rect>
+    <text fill="rgb(141, 148, 159)" font-family="AvenirNext-Italic, 'Avenir Next', sans-serif" font-style="italic" font-size="20" x="233.76" y="323" text-anchor="end"><tspan x="295" y="343">points.</tspan></text>
+    <rect id="text9" stroke="rgb(65, 153, 231)" stroke-width="2" fill="rgb(255, 255, 255)" x="917" y="659" width="77" height="19" rx="7"></rect>
+    <text fill="rgb(65, 153, 231)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="11" x="923.99" y="659" text-anchor="middle"><tspan x="955.5" y="672">render at 3×</tspan></text>
+    <rect id="text8" stroke="rgb(65, 153, 231)" stroke-width="2" fill="rgb(255, 255, 255)" x="666" y="659" width="77" height="19" rx="7"></rect>
+    <text fill="rgb(65, 153, 231)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="11" x="672.99" y="659" text-anchor="middle"><tspan x="704.5" y="672">render at 2×</tspan></text>
+    <path id="bezier6" stroke="rgb(221, 221, 221)" stroke-miterlimit="10" fill="none" d="M 0.5,209.5 L 1059.5,209.5"></path>
+</svg>

@@ -1,0 +1,100 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1060" height="886" xml:space="preserve" id="lineRendering">
+    <path id="bezier37" stroke="rgb(65, 153, 231)" stroke-miterlimit="10" stroke-dasharray="4,4" stroke-dashoffset="0" fill="none" d="M 809.5,601.5 L 809.5,709.5"></path>
+    <path id="bezier" stroke="rgb(65, 153, 231)" stroke-miterlimit="10" stroke-dasharray="4,4" stroke-dashoffset="0" fill="none" d="M 349.5,601.5 L 349.5,709.5"></path>
+    <rect id="line1" stroke="none" fill="rgb(182, 190, 202)" x="409" y="61" width="480" height="60"></rect>
+    <path id="grid1x" stroke="rgb(141, 148, 159)" stroke-miterlimit="10" fill="none" d="M 349,0.5 L 950,0.5 M 350,60.5 L 950,60.5 M 350,120.5 L 950,120.5 M 350,180.5 L 950,180.5 M 949.5,1 L 949.5,181 M 889.5,1 L 889.5,181 M 829.5,1 L 829.5,181 M 769.5,1 L 769.5,181 M 709.5,1 L 709.5,181 M 649.5,1 L 649.5,181 M 589.5,1 L 589.5,181 M 529.5,1 L 529.5,181 M 469.5,1 L 469.5,181 M 409.5,1 L 409.5,181 M 349.5,1 L 349.5,181"></path>
+    <rect id="line2" stroke="none" fill="rgb(182, 190, 202)" x="409" y="271" width="480" height="60"></rect>
+    <path id="grid2x" stroke="rgb(141, 148, 159)" stroke-miterlimit="10" fill="none" d="M 349,210.5 L 950,210.5 M 350,270.5 L 950,270.5 M 350,330.5 L 950,330.5 M 350,390.5 L 950,390.5 M 949.5,211 L 949.5,391 M 889.5,211 L 889.5,391 M 829.5,211 L 829.5,391 M 769.5,211 L 769.5,391 M 709.5,211 L 709.5,391 M 649.5,211 L 649.5,391 M 589.5,211 L 589.5,391 M 529.5,211 L 529.5,391 M 469.5,211 L 469.5,391 M 409.5,211 L 409.5,391 M 349.5,211 L 349.5,391 M 350,240.5 L 950,240.5 M 350,300.5 L 950,300.5 M 350,360.5 L 950,360.5 M 919.5,211 L 919.5,391 M 859.5,211 L 859.5,391 M 799.5,211 L 799.5,391 M 739.5,211 L 739.5,391 M 679.5,211 L 679.5,391 M 619.5,211 L 619.5,391 M 559.5,211 L 559.5,391 M 499.5,211 L 499.5,391 M 439.5,211 L 439.5,391 M 379.5,211 L 379.5,391"></path>
+    <rect id="line3" stroke="none" fill="rgb(182, 190, 202)" x="410" y="481" width="480" height="60"></rect>
+    <path id="grid3x" stroke="rgb(141, 148, 159)" stroke-miterlimit="10" fill="none" d="M 349,420.5 L 950,420.5 M 350,480.5 L 950,480.5 M 350,540.5 L 950,540.5 M 350,600.5 L 950,600.5 M 949.5,421 L 949.5,601 M 889.5,421 L 889.5,601 M 829.5,421 L 829.5,601 M 769.5,421 L 769.5,601 M 709.5,421 L 709.5,601 M 649.5,421 L 649.5,601 M 589.5,421 L 589.5,601 M 529.5,421 L 529.5,601 M 469.5,421 L 469.5,601 M 409.5,421 L 409.5,601 M 349.5,421 L 349.5,601 M 350,440.5 L 950,440.5 M 350,500.5 L 950,500.5 M 350,560.5 L 950,560.5 M 350,460.5 L 950,460.5 M 350,520.5 L 950,520.5 M 350,580.5 L 950,580.5 M 909.5,421 L 909.5,601 M 849.5,421 L 849.5,601 M 789.5,421 L 789.5,601 M 729.5,421 L 729.5,601 M 669.5,421 L 669.5,601 M 609.5,421 L 609.5,601 M 549.5,421 L 549.5,601 M 489.5,421 L 489.5,601 M 429.5,421 L 429.5,601 M 369.5,421 L 369.5,601 M 929.5,421 L 929.5,601 M 869.5,421 L 869.5,601 M 809.5,421 L 809.5,601 M 749.5,421 L 749.5,601 M 689.5,421 L 689.5,601 M 629.5,421 L 629.5,601 M 569.5,421 L 569.5,601 M 509.5,421 L 509.5,601 M 449.5,421 L 449.5,601 M 389.5,421 L 389.5,601"></path>
+    <g id="blurryLine">
+        <rect id="blurryLine1" stroke="none" fill="rgb(182, 190, 202)" x="419" y="769.5" width="460" height="46"></rect>
+        <rect id="blurryLine8" stroke="none" fill="rgb(182, 190, 202)" fill-opacity="0.03" x="396" y="747" width="23" height="23"></rect>
+        <rect id="blurryLine5" stroke="none" fill="rgb(182, 190, 202)" fill-opacity="0.01" x="396" y="815" width="23" height="23"></rect>
+        <rect id="blurryLine6" stroke="none" fill="rgb(182, 190, 202)" fill-opacity="0.25" x="879" y="747" width="23" height="23"></rect>
+        <rect id="blurryLine7" stroke="none" fill="rgb(182, 190, 202)" fill-opacity="0.13" x="879" y="815" width="23" height="23"></rect>
+        <rect id="blurryLine10" stroke="none" fill="rgb(182, 190, 202)" fill-opacity="0.18" x="419" y="815" width="460" height="23"></rect>
+        <rect id="blurryLine2" stroke="none" fill="rgb(182, 190, 202)" fill-opacity="0.72" x="879" y="770" width="23" height="46"></rect>
+        <rect id="blurryLine3" stroke="none" fill="rgb(182, 190, 202)" fill-opacity="0.33" x="419" y="747" width="460" height="23"></rect>
+        <rect id="blurryLine4" stroke="none" fill="rgb(182, 190, 202)" fill-opacity="0.07" x="396" y="770" width="23" height="46"></rect>
+    </g>
+    <path id="grid3xDownscaled1115" stroke="rgb(141, 148, 159)" stroke-miterlimit="10" fill="none" d="M 349,700.5 L 947,700.5 M 349,723.5 L 947,723.5 M 349,746.5 L 947,746.5 M 349,769.5 L 947,769.5 M 349,792.5 L 947,792.5 M 349,815.5 L 947,815.5 M 349,838.5 L 947,838.5 M 349,861.5 L 947,861.5 M 349.5,700 L 349.5,885 M 372.5,700 L 372.5,885 M 395.5,700 L 395.5,885 M 418.5,700 L 418.5,885 M 441.5,700 L 441.5,885 M 464.5,700 L 464.5,885 M 487.5,700 L 487.5,885 M 510.5,700 L 510.5,885 M 533.5,700 L 533.5,885 M 556.5,700 L 556.5,885 M 579.5,700 L 579.5,885 M 602.5,700 L 602.5,885 M 625.5,700 L 625.5,885 M 648.5,700 L 648.5,885 M 671.5,700 L 671.5,885 M 694.5,700 L 694.5,885 M 717.5,700 L 717.5,885 M 740.5,700 L 740.5,885 M 763.5,700 L 763.5,885 M 786.5,700 L 786.5,885 M 809.5,700 L 809.5,885 M 832.5,700 L 832.5,885 M 855.5,700 L 855.5,885 M 878.5,700 L 878.5,885 M 901.5,700 L 901.5,885 M 924.5,700 L 924.5,885 M 947.5,700 L 947.5,885 M 349.5,884.5 L 947.5,884.5"></path>
+
+    <text fill="rgb(65, 153, 231)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="13" x="552.3" y="614" text-anchor="middle"><tspan x="579.5" y="629">23 pixels</tspan></text>
+
+    <text fill="rgb(65, 153, 231)" font-family="AvenirNext-DemiBold, 'Avenir Next', sans-serif" font-weight="bold" font-size="13" x="552.3" y="666" text-anchor="middle"><tspan x="579.5" y="681">20 pixels</tspan></text>
+    <g id="kota">
+        <path id="bezier6" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 349.5,687 L 809.5,687"></path>
+        <path id="bezier7" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 363.5,679 L 349.5,687 363.5,695"></path>
+        <path id="bezier8" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 795.5,679 L 809.5,687 795.5,695"></path>
+    </g>
+    <g id="kota2">
+        <path id="bezier2" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 349.5,614 L 809.5,614"></path>
+        <path id="bezier3" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 363.5,606 L 349.5,614 363.5,622"></path>
+        <path id="bezier4" stroke="rgb(65, 153, 231)" stroke-width="2" stroke-miterlimit="10" fill="none" d="M 795.5,606 L 809.5,614 795.5,622"></path>
+    </g>
+    <rect id="line" stroke="rgb(255, 0, 0)" fill="none" x="409.5" y="761.5" width="480" height="60"></rect>
+    <g id="group">
+        <rect id="rectangle103" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="14" y="69" width="211" height="40"></rect>
+        <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="29" y="73"><tspan x="29" y="98">Original iPhone</tspan></text>
+        <g id="originalIPhone2">
+            <rect id="rectangle120" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="232" y="40" width="52" height="101" rx="9"></rect>
+            <rect id="rectangle121" stroke="none" fill="rgb(141, 148, 159)" x="230" y="49" width="1" height="5"></rect>
+            <rect id="rectangle122" stroke="none" fill="rgb(141, 148, 159)" x="230" y="58" width="1" height="6"></rect>
+            <rect id="rectangle123" stroke="none" fill="rgb(141, 148, 159)" x="230" y="69" width="1" height="7"></rect>
+            <rect id="rectangle124" stroke="none" fill="rgb(141, 148, 159)" x="253" y="48" width="10" height="2" rx="1"></rect>
+            <circle id="oval9" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="257.5" cy="132.5" r="4.5"></circle>
+            <rect id="rectangle125" stroke="none" fill="rgb(141, 148, 159)" x="267" y="38" width="9" height="1"></rect>
+        </g>
+        <rect id="rectangle126" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="236" y="56" width="44" height="67"></rect>
+        <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="12" x="245.9" y="56" text-anchor="middle"><tspan x="258" y="93">3.5″</tspan></text>
+    </g>
+    <g id="group2">
+        <rect id="rectangle104" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="14" y="282" width="211" height="40"></rect>
+        <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="108.8" y="286" text-anchor="end"><tspan x="210" y="311">iPhone 5
+</tspan></text>
+        <g id="originalIPhone" transform="translate(218.31, 269)">
+            <rect id="rectangle" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="13.69" y="-23" width="52" height="114" rx="9"></rect>
+            <rect id="rectangle2" stroke="none" fill="rgb(141, 148, 159)" x="11.69" y="-14.14" width="1" height="5"></rect>
+            <rect id="rectangle3" stroke="none" fill="rgb(141, 148, 159)" x="11.69" y="-5.14" width="1" height="6"></rect>
+            <rect id="rectangle4" stroke="none" fill="rgb(141, 148, 159)" x="11.69" y="5.86" width="1" height="7"></rect>
+            <rect id="rectangle5" stroke="none" fill="rgb(141, 148, 159)" x="34.69" y="-16.14" width="10" height="2" rx="1"></rect>
+            <circle id="oval" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="39.19" cy="82.36" r="4.5"></circle>
+            <rect id="rectangle6" stroke="none" fill="rgb(141, 148, 159)" x="48.69" y="-25.14" width="9" height="1"></rect>
+        </g>
+        <rect id="rectangle7" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="236" y="262" width="44" height="79"></rect>
+        <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="12" x="251.03" y="262" text-anchor="middle"><tspan x="258" y="305">4″</tspan></text>
+    </g>
+    <g id="group3">
+        <rect id="rectangle102" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="152" y="715" width="210" height="190"></rect>
+        <rect id="rectangle105" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="11" y="772" width="211" height="40"></rect>
+        <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="52.53" y="776" text-anchor="end"><tspan x="207" y="801">iPhone 6 Plus</tspan></text>
+        <g id="iPhone6Plus2">
+            <rect id="rectangle113" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="223" y="722" width="69" height="142" rx="9"></rect>
+            <rect id="rectangle114" stroke="none" fill="rgb(141, 148, 159)" x="221" y="738" width="1" height="6"></rect>
+            <rect id="rectangle115" stroke="none" fill="rgb(141, 148, 159)" x="221" y="749" width="1" height="9"></rect>
+            <rect id="rectangle116" stroke="none" fill="rgb(141, 148, 159)" x="221" y="761" width="1" height="9"></rect>
+            <rect id="rectangle117" stroke="none" fill="rgb(141, 148, 159)" x="252" y="730" width="11" height="2" rx="1"></rect>
+            <rect id="rectangle118" stroke="none" fill="rgb(141, 148, 159)" x="247" y="730" width="2" height="2" rx="1"></rect>
+            <rect id="rectangle119" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" x="257" y="726" width="1" height="1" rx="0.5"></rect>
+            <circle id="oval8" stroke="rgb(141, 148, 159)" stroke-width="2" fill="none" cx="257.5" cy="855.5" r="4.5"></circle>
+        </g>
+        <rect id="rectangle128" stroke="rgb(141, 148, 159)" stroke-width="2" fill="rgb(141, 148, 159)" fill-opacity="0.1" x="227" y="738" width="61" height="109"></rect>
+        <text fill="rgb(70, 74, 80)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="12" x="245.4" y="738" text-anchor="middle"><tspan x="257.5" y="796">5.5″</tspan></text>
+    </g>
+    <g id="group4">
+        <rect id="rectangle8" stroke="none" fill="rgb(0, 0, 0)" fill-opacity="0" x="153" y="438" width="210" height="190"></rect>
+        <rect id="rectangle9" stroke="none" fill="rgb(255, 203, 87)" fill-opacity="0" x="-26" y="470" width="251" height="91"></rect>
+        <text fill="rgb(65, 153, 231)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="25" x="63.83" y="474" text-anchor="end"><tspan x="210" y="499">Hypothetical
+</tspan><tspan x="210" y="533">Perfect 3× Display</tspan></text>
+        <g id="iPhone6Plus">
+            <rect id="rectangle10" stroke="rgb(65, 153, 231)" stroke-width="2" fill="none" x="224" y="445" width="69" height="142" rx="9"></rect>
+            <rect id="rectangle14" stroke="none" fill="rgb(65, 153, 231)" x="253" y="453" width="11" height="2" rx="1"></rect>
+            <rect id="rectangle15" stroke="none" fill="rgb(65, 153, 231)" x="248" y="453" width="2" height="2" rx="1"></rect>
+            <rect id="rectangle16" stroke="rgb(65, 153, 231)" stroke-width="2" fill="none" x="258" y="449" width="1" height="1" rx="0.5"></rect>
+            <circle id="oval2" stroke="rgb(65, 153, 231)" stroke-width="2" fill="none" cx="258.5" cy="578.5" r="4.5"></circle>
+        </g>
+        <rect id="rectangle17" stroke="rgb(65, 153, 231)" stroke-width="2" fill="rgb(65, 153, 231)" fill-opacity="0.1" x="228" y="461" width="61" height="109"></rect>
+        <text fill="rgb(65, 153, 231)" font-family="AvenirNext-Medium, 'Avenir Next', sans-serif" font-size="24" x="240.5" y="461" text-anchor="middle"><tspan x="258.5" y="523">???</tspan></text>
+    </g>
+</svg>
