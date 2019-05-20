@@ -181,3 +181,14 @@ module.exports = {
 由于前面的代码也是配置自适应框架的代码，而且已经有了文字记录，所以先将对应依赖卸载，然后直接回滚代码，再尝试安装一次。  
 
 这次安装完之后没有任何报错，然后跑起来也完全正常。由于篇幅有点长，关于 `cube-ui` 的具体安装在另一篇文章里面。  
+
+## 其他依赖
+
+剩下就是一些其他依赖了：  
+* 调试插件： vconsole  
+* 轻量级日期处理库：dayjs  
+* 小方法库：lodash  
+* 移动端点击延迟解决：fastclick  
+* ajax 请求库：axios  
+* 表单校验：async-validator  
+* vuex持久化插件：vuex-persistedstate  
