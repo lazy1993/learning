@@ -125,3 +125,7 @@ https://im.qq.com/download/index.shtml
 ### 桌面版微信
 
 下载地址：https://pc.weixin.qq.com/?t=win_weixin  
+
+### Snipaste
+
+截图软件，可以将截图直接放置在桌面上。直接在微软商店搜索下载的。  
