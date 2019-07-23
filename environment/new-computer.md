@@ -129,3 +129,4 @@ https://im.qq.com/download/index.shtml
 ### Snipaste
 
 截图软件，可以将截图直接放置在桌面上。直接在微软商店搜索下载的。  
+或者在线下载：https://zh.snipaste.com/download.html  
