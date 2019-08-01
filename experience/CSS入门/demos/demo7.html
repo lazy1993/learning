@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>demo7 - 恐怖的嵌套 嵌套样式写法带来的结果</title>
+    <style>
+      /* Sass 源码 */
+      /*
+        .page {
+          // 一些其他的样式
+          .main {
+            .content {
+              .wrapper {
+                .item {
+                  color: red;
+                  }
+              }
+            }
+          }
+        }
+       */
+
+      /* 编译出的 CSS 代码 我的权重是 50 哦，想重置我的颠颠自己的分量 */
+      .page .main .content .wrapper .item {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <div class="main">
+        <div class="content">
+          <div class="wrapper">
+            <div class="item">我是要被应用样式的那个元素</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
