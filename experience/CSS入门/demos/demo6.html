@@ -14,6 +14,9 @@
       .example {
         color: orange;
       }
+      /* #reset .example {
+        color: blue;
+      } */
       /* 在组件内部定义的样式最后变成了这样 - 这是父组件 */
       #reset .example[data-v-f3f3eg7] {
         color: blue;
@@ -26,9 +29,16 @@
   </head>
   <body>
     <!-- 我是父组件 -->
-    <div id="reset" data-v-f3f3eg7>
+    <!-- <div id="reset" data-v-f3f3eg7> -->
+    <!-- 我是子组件 -->
+    <!-- <div class="example" data-v-f3f3eg9>猜猜我能不能被父组件重置样式</div> -->
+    <!-- </div> -->
+    <!-- 我是父组件 -->
+    <div id="reset" class="reset" data-v-f3f3eg7>
       <!-- 我是子组件 -->
-      <div class="example" data-v-f3f3eg9>猜猜我能不能被父组件重置样式</div>
+      <div data-v-f3f3eg9>
+        <div class="example" data-v-f3f3eg9>猜猜我能不能被父组件重置样式</div>
+      </div>
     </div>
   </body>
 </html>
